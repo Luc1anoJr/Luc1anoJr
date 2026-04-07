@@ -133,4 +133,3 @@ const luciano = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer"/>
-<!-- profile-readme -->
