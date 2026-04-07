@@ -91,12 +91,16 @@ const luciano = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luc1anoJr&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc1anoJr&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8"/>
+<a href="https://github.com/Luc1anoJr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luc1anoJr&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/Luc1anoJr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luc1anoJr&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8"/>
+</a>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luc1anoJr&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=161b22&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luc1anoJr&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+<img src="https://streak-stats.demolab.com/?user=Luc1anoJr&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=da3633&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
