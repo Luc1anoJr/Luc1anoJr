@@ -21,13 +21,16 @@ const luciano = {
     stack: {
         languages:      ["PHP/Laravel", "TypeScript", "C#/.NET", "Python", "JavaScript"],
         virtualization: ["VMware ESXi", "Hyper-V", "Proxmox"],
+        windows:        ["Windows Server", "Active Directory", "DNS", "GPO", "DHCP"],
         networking:     ["MikroTik", "Cisco", "pfSense", "FortiClient", "UniFi"],
-        servers:        ["Ubuntu", "CentOS", "Debian", "FreeBSD", "Windows Server"],
+        servers:        ["Ubuntu", "CentOS", "Debian", "FreeBSD"],
         containers:     ["Docker Swarm", "Portainer"],
         databases:      ["MySQL", "PostgreSQL", "Redis", "SQL Server"],
         automation:     ["N8N", "Evolution API", "Chatwoot", "Zabbix"],
         voip:           ["FreePBX", "Issabel", "ViciDial", "SNEP"],
-        cloud:          ["Microsoft 365", "Azure AD"],
+        cloud:          ["Microsoft 365", "Azure AD", "Cloudflare"],
+        domains:        ["Cloudflare", "Hostinger", "Registro.br"],
+        itsm:           ["ManageEngine (full suite)", "ITIL"],
         tools:          ["Nginx", "Postfix", "Git", "ownCloud (OCIS)"]
     },
     currentFocus: [
@@ -56,18 +59,24 @@ const luciano = {
 
 ### **Virtualização & Servidores**
 ![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### **Networking & Firewall**
+### **Networking, Firewall & DNS**
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/FortiClient-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### **ITSM & Gestão**
+![ManageEngine](https://img.shields.io/badge/ManageEngine-DC382D?style=for-the-badge&logo=zoho&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-6A1B9A?style=for-the-badge&logo=itil&logoColor=white)
 
 ### **Containers & DevOps**
 ![Docker](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
