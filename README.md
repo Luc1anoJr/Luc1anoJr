@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Docker+Swarm+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Transformando+infraestrutura+em+solu%C3%A7%C3%B5es+escal%C3%A1veis)](https://github.com/Luc1anoJr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Infraestrutura+%7C+Virtualiza%C3%A7%C3%A3o+%7C+Automa%C3%A7%C3%A3o+%7C+DevOps;Transformando+complexidade+em+solu%C3%A7%C3%B5es+escal%C3%A1veis)](https://github.com/Luc1anoJr)
 
 ![Focus](https://img.shields.io/badge/FOCO-Infraestrutura_&_Automação-58a6ff?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/LOCAL-Goiânia,_GO-238636?style=flat-square&labelColor=0d1117)
@@ -19,18 +19,23 @@ const luciano = {
     role: "Coordenador de Infraestrutura",
     location: "Goiânia - GO, Brasil",
     stack: {
-        backend:    ["PHP/Laravel", "TypeScript", "C#/.NET", "Python"],
-        frontend:   ["Blade", "JavaScript", "HTML/CSS"],
-        databases:  ["MySQL", "PostgreSQL", "Redis"],
-        devops:     ["Docker Swarm", "Portainer", "Linux", "Nginx"],
-        automation: ["N8N", "Evolution API", "Chatwoot"],
-        tools:      ["Git", "Postfix/Mail Server", "ownCloud (OCIS)"]
+        languages:      ["PHP/Laravel", "TypeScript", "C#/.NET", "Python", "JavaScript"],
+        virtualization: ["VMware ESXi", "Hyper-V", "Proxmox"],
+        networking:     ["MikroTik", "Cisco", "pfSense", "FortiClient", "UniFi"],
+        servers:        ["Ubuntu", "CentOS", "Debian", "FreeBSD", "Windows Server"],
+        containers:     ["Docker Swarm", "Portainer"],
+        databases:      ["MySQL", "PostgreSQL", "Redis", "SQL Server"],
+        automation:     ["N8N", "Evolution API", "Chatwoot", "Zabbix"],
+        voip:           ["FreePBX", "Issabel", "ViciDial", "SNEP"],
+        cloud:          ["Microsoft 365", "Azure AD"],
+        tools:          ["Nginx", "Postfix", "Git", "ownCloud (OCIS)"]
     },
     currentFocus: [
+        "Gestão de infraestrutura virtualizada (ESXi + 9 VMs)",
         "Orquestração de containers em Docker Swarm",
         "Automações inteligentes com N8N + IA",
-        "Integrações WhatsApp via Evolution API",
-        "Sistemas logísticos full-stack"
+        "Implantação Microsoft 365 em empresas",
+        "Integrações WhatsApp via Evolution API"
     ]
 };
 ```
@@ -41,7 +46,7 @@ const luciano = {
 
 <div align="center">
 
-### **Backend & Languages**
+### **Languages & Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,27 +54,50 @@ const luciano = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Infraestrutura & DevOps**
+### **Virtualização & Servidores**
+![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### **Networking & Firewall**
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Fortinet](https://img.shields.io/badge/FortiClient-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+
+### **Containers & DevOps**
 ![Docker](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### **Automação & Integrações**
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### **VoIP & Telefonia**
+![FreePBX](https://img.shields.io/badge/FreePBX-185886?style=for-the-badge&logo=asterisk&logoColor=white)
+![Issabel](https://img.shields.io/badge/Issabel-00A859?style=for-the-badge&logo=asterisk&logoColor=white)
+![ViciDial](https://img.shields.io/badge/ViciDial-FF6600?style=for-the-badge&logo=asterisk&logoColor=white)
+![SNEP](https://img.shields.io/badge/SNEP-333333?style=for-the-badge&logo=asterisk&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Projetos em Destaque
+## 🏗️ Projetos & Infraestrutura
 
 <div align="center">
 
@@ -78,10 +106,15 @@ const luciano = {
 | Sistema logístico full-stack com gestão de coletas, expedição e auditoria documental | API de integração com sistema SSW para sincronização de dados logísticos |
 | `PHP` `Laravel` `Blade` `MySQL` `Python` | `TypeScript` `Node.js` `Docker` |
 
-| 📱 **Automação WhatsApp** | 🖥️ **Infraestrutura Docker Swarm** |
+| 🖥️ **Datacenter Virtualizado** | 📱 **Automação WhatsApp** |
 |:---:|:---:|
-| Integração Chatwoot + Evolution API + N8N para atendimento automatizado | Stack completa: Mail Server, Chatwoot, N8N, PostgreSQL, Redis, OCIS |
-| `N8N` `Evolution API` `Chatwoot` | `Docker Swarm` `Portainer` `Linux` |
+| 9 VMs em VMware ESXi: pfSense, PBX, AD, Zabbix, Ubuntu, Windows Server | Chatwoot + Evolution API + N8N para atendimento automatizado multicanal |
+| `ESXi` `pfSense` `Zabbix` `Windows Server` | `N8N` `Evolution API` `Chatwoot` |
+
+| 🐳 **Stack Docker Swarm** | ☁️ **Microsoft 365 Enterprise** |
+|:---:|:---:|
+| 10+ serviços: Mail Server, Chatwoot, N8N, PostgreSQL, Redis, OCIS, Portainer | Implantação e configuração completa de M365 para empresas |
+| `Docker Swarm` `Portainer` `Linux` | `Azure AD` `Exchange` `Teams` `SharePoint` |
 
 </div>
 
@@ -116,6 +149,9 @@ const luciano = {
 [![Portainer](https://img.shields.io/badge/portainer/portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)](https://github.com/portainer/portainer)
 [![PostfixAdmin](https://img.shields.io/badge/postfixadmin-333?style=flat-square&logo=gmail&logoColor=white)](https://github.com/postfixadmin/postfixadmin)
 [![Converse.js](https://img.shields.io/badge/converse.js-FF6600?style=flat-square&logo=javascript&logoColor=white)](https://github.com/conversejs/converse.js)
+[![Zabbix](https://img.shields.io/badge/zabbix/zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)](https://github.com/zabbix/zabbix)
+[![FreePBX](https://img.shields.io/badge/FreePBX-185886?style=flat-square&logo=asterisk&logoColor=white)](https://github.com/FreePBX)
+[![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)](https://github.com/pfsense/pfsense)
 
 </div>
 
@@ -125,13 +161,13 @@ const luciano = {
 
 ### 💡 O que me move
 
-> *"Infraestrutura não é só manter servidores — é construir a base que permite inovação.<br/>Cada automação criada é tempo devolvido para o que realmente importa."*
+> *"Infraestrutura não é só manter servidores — é construir a base que permite inovação.<br/>De um datacenter virtualizado a automações com IA, cada camada precisa ser sólida."*
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Luc1anoJr&color=58a6ff&style=flat-square&label=Visitas+no+perfil)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luciano-alves-2222a2161)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianojr9090@gmail.com)
 
 </div>
